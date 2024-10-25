@@ -15,7 +15,7 @@ contains 5 files :
 
 
 mentions: \
-Tanish Pooniya
-Rohan Satpati
-Divyanshu Thapliyal
+Tanish Pooniya;
+Rohan Satpati;
+Divyanshu Thapliyal;
 Raman Kumar Singh (author)
